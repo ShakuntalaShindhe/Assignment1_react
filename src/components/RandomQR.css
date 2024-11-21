@@ -1,0 +1,33 @@
+body {
+    /* background-color: rgb(255, 244, 231); */
+    height: 100vh;
+}
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* height: 100vh; */
+    background-color: #cdc8c885;
+    padding: 60px;
+    border-radius: 10px;
+    text-align: center;
+}
+.container h1{
+    color: rgb(47, 91, 3);
+}
+input {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 80%;
+}
+
+image {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}

@@ -1,0 +1,20 @@
+.mainDiv{
+    text-align: center;
+    margin: 10px auto;
+    padding: 100px;
+    width: 86%;
+    background-color: rgba(250, 235, 215, 0.242);
+    /* border: 1px solid red; */
+}
+.mainDiv input{
+    padding: 10px;
+    width: 300px;
+   margin: 30px auto;
+    /* margin-bottom: 20px; */
+}
+.cards{
+    margin-bottom: 20px;
+}
+.cards img{
+    width: 100px;
+}
